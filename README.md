@@ -81,6 +81,10 @@ Desejamos que divirta-se e aproveite ao máximo esse momento de desafio!
 * Exportei os dados para Excel e deixei disponível no repositório.
 * Gerei algumas visualizações gerenciais no Tableu no formato público.
 
+O fluxograma da solução deste desafio ficou desta forma
+
+<img src = "fluxograma-desafio-Stone.png">
+
 ## Fórmula utilizada
 
 * Fórmula
