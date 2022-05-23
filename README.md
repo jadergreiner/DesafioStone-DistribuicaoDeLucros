@@ -72,19 +72,25 @@ Desejamos que divirta-se e aproveite ao máximo esse momento de desafio!
 
 # Resolução  do desafio
 
-* Inicialmente recebi os dados e realizar uma primeira análise dos dados e de quais perguntas devemos responder;
+* Inicialmente recebi os dados e realizei uma primeira análise dos dados e de quais perguntas devemos responder;
 * Pensando na estratégia de resolução, optei em desenvolver uma fórmula inicial em planilha, com dados "controlados" e testar a eficácia da fórmula;
 * Criei então uma planilha simulada com dados gerais, mas que pudesse atender aos cenários propostos pelo desafio;
-* Iniciei a montagem do respositório no Github
-* Com a lógica e fórmula definida, gerei o código em um Notebook Python.
-* Exportei os dados para Excel e montei visualizações no Tableu no formato público.
+* Iniciei a montagem do respositório com a documentação no Github;
+* Com a lógica e fórmula definida, gerei o código em um Notebook Python que está disponível no repositório.
+* Além desta documentação, o Notebook está documentado passo a passo.
+* Exportei os dados para Excel e deixei disponível no repositório.
+* Gerei algumas visualizações gerenciais no Tableu no formato público.
 
 ## Fórmula utilizada
 
-Fator = (F1 + F2 + F3) / ( SOMA (TOTAL F1) +
-                           SOMA (TOTAL F2) + 
-                           SOMA (TOTAL F3)
-                          )
+* Fórmula
+
+  Fator = (F1 + F2 + F3) /  </br>
+                              SOMA (TOTAL F1) + </br>
+                              SOMA (TOTAL F2) + </br>
+                              SOMA (TOTAL F3)
+                           
+                          
 Bonus a receber = Total a distribuir * fator                          
                           
 ### Legenda                          
@@ -98,7 +104,7 @@ Bonus a receber = Total a distribuir * fator
 
 **Bonus a receber** = Valor que será destinado a bônus ao funcionário. Corresponde a multiplicação do fator pelo valor total a distribuir.
 
-## Dados gerenciais
+## Dashboards com os Dados gerenciais
 * Número de funcionários por area: https://public.tableau.com/app/profile/jader.greiner/viz/DesafioStone-Funcionriosporarea/Planilha2?publish=yes
 * Valores distribuidos por area: https://public.tableau.com/app/profile/jader.greiner/viz/DesafioStone-Valoresporarea/Planilha1?publish=yes
 * Valores distribuídos por faixa salarial: https://public.tableau.com/app/profile/jader.greiner/viz/DesafioStone-Valorporfaixasalarial/Planilha1?publish=yes
