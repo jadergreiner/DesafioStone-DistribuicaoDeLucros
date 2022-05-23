@@ -75,7 +75,8 @@ Desejamos que divirta-se e aproveite ao máximo esse momento de desafio!
 * Inicialmente recebi os dados e realizar uma primeira análise dos dados e de quais perguntas devemos responder;
 * Pensando na estratégia de resolução, optei em desenvolver uma fórmula inicial em planilha, com dados "controlados" e testar a eficácia da fórmula;
 * Criei então uma planilha simulada com dados gerais, mas que pudesse atender aos cenários propostos pelo desafio;
-* * Iniciei a montagem do respositório no Github
+* Iniciei a montagem do respositório no Github
+* Com a lógica e fórmula definida, gerei o código em um Notebook Python.
 * Com a definição da fórmula, preparei melhor os dados simulados, modelei as colunas e joguei a visualização para o Tableau;
 
 ## Fórmula utilizada
@@ -88,9 +89,13 @@ Bonus a receber = Total a distribuir * fator
                           
 ### Legenda                          
 **Fator** = Resultado da fórmula que gera o percentual que será percebido pelo funcionário. Inicialmente somamos os pesos individuais do funcionário (F1 + F2 + F3) e dividimos pelo peso total de toda a base de dados.
+
 **F1** = Peso correspondente a area do funcionário.
+
 **F2** = Peso correspondente a faixa salarial do funcionário. O F2 tem uma metologia para o peso final. Como neste caso, maior o peso, menor o valor recebido, a fórmula do F2 ficou assim = *F2 = 6 - peso*
+
 **F3** = Peso correspondente ao tempo de admissão do funcionário.
+
 **Bonus a receber** = Valor que será destinado a bônus ao funcionário. Corresponde a multiplicação do fator pelo valor total a distribuir.
 
 
