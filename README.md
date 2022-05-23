@@ -77,7 +77,7 @@ Desejamos que divirta-se e aproveite ao máximo esse momento de desafio!
 * Criei então uma planilha simulada com dados gerais, mas que pudesse atender aos cenários propostos pelo desafio;
 * Iniciei a montagem do respositório no Github
 * Com a lógica e fórmula definida, gerei o código em um Notebook Python.
-* Com a definição da fórmula, preparei melhor os dados simulados, modelei as colunas e joguei a visualização para o Tableau;
+* Exportei os dados para Excel e montei visualizações no Tableu no formato público.
 
 ## Fórmula utilizada
 
@@ -98,4 +98,11 @@ Bonus a receber = Total a distribuir * fator
 
 **Bonus a receber** = Valor que será destinado a bônus ao funcionário. Corresponde a multiplicação do fator pelo valor total a distribuir.
 
+## Dados gerenciais
+* Número de funcionários por area: https://public.tableau.com/app/profile/jader.greiner/viz/DesafioStone-Funcionriosporarea/Planilha2?publish=yes
+* Valores distribuidos por area: https://public.tableau.com/app/profile/jader.greiner/viz/DesafioStone-Valoresporarea/Planilha1?publish=yes
+* Valores distribuídos por faixa salarial: https://public.tableau.com/app/profile/jader.greiner/viz/DesafioStone-Valorporfaixasalarial/Planilha1?publish=yes
+* Número de funcionários por faixa salarial: https://public.tableau.com/app/profile/jader.greiner/viz/DesafioStone-funcionariosporfaixasalarial/Planilha2?publish=yes
+* Número de funcionários por tempo de casa: https://public.tableau.com/app/profile/jader.greiner/viz/DesafioStone-funcionariosportempodecasa/Planilha2?publish=yes
+* Valores distribuídos por tempo de casa: https://public.tableau.com/app/profile/jader.greiner/viz/DesafioStone-valoresportempodecasa/Planilha1?publish=yes
 
